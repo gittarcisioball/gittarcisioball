@@ -1,8 +1,10 @@
 <div align="center">
-  <!-- Banner Personalizado -->
-  <img src="https://github.com/user-attachments/assets/1dd14c4a-f33e-4bea-8751-57711d24deb2" alt="Banner Tarcísio Vieira Alves" width="100%" style="border-radius: 10px;">
+  <!-- Dynamic Futuristic Banner -->
+  <a href="https://github.com/gittarcisioball">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=250&section=header&text=Tarcísio%20Vieira%20Alves&fontSize=50&fontColor=ffffff&fontAlign=50&fontAlignY=40&desc=Data%20Analyst%20%7C%20BI%20%7C%20Software%20Engineering&descAlign=50&descAlignY=60&descSize=20&animation=twinkling" width="100%" alt="Banner Tarcísio Vieira Alves">
+  </a>
   
-  <br><br>
+  <br>
 
   <!-- Typing Animation -->
   <a href="https://github.com/gittarcisioball">
