@@ -81,12 +81,3 @@ Com experiência prática em inteligência comercial, automação de relatórios
 </div>
 
 <br>
-
-<div align="center">
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gittarcisioball&theme=dark&background=0D1117&ring=0075FF&fire=00E5FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00E5FF&sideLabels=00E5FF&dates=8B949E&border=00E5FF&stroke=00E5FF&border_radius=10" alt="GitHub Streak"/>
-</div>
-
-<br>
-
-<div align="center">
