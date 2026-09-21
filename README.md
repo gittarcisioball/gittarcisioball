@@ -73,11 +73,3 @@ Com experiência prática em inteligência comercial, automação de relatórios
 </div>
 
 <br>
-
-<div align="center">
-  <!-- GitHub Stats e Top Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gittarcisioball&show_icons=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&icon_color=0075FF&border_color=00E5FF&border_radius=10&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gittarcisioball&layout=compact&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&border_color=00E5FF&border_radius=10&langs_count=6" alt="Top Languages"/>
-</div>
-
-<br>
