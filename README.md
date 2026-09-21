@@ -63,16 +63,6 @@ Com experiência prática em inteligência comercial, automação de relatórios
 
 ---
 
-## 🚀 Projetos em Destaque
-
-<div align="center">
-  <a href="https://github.com/gittarcisioball/SYSFIN">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gittarcisioball&repo=SYSFIN&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&icon_color=0075FF&border_color=00E5FF&border_radius=10" alt="SYSFIN Project Card"/>
-  </a>
-</div>
-
----
-
 ## 📊 Analytics & Atividade
 
 <div align="center">
@@ -107,32 +97,3 @@ Com experiência prática em inteligência comercial, automação de relatórios
 <br>
 
 <div align="center">
-  <!-- Snake Contribution Graph -->
-  <h3>🐍 Contribuições (Snake Game)</h3>
-  <!-- 
-    NOTA: Para que a cobrinha funcione, você precisa configurar o GitHub Actions. 
-    Siga as instruções abaixo na explicação.
-  -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gittarcisioball/gittarcisioball/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gittarcisioball/gittarcisioball/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gittarcisioball/gittarcisioball/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</div>
-
----
-
-<div align="center">
-  <p><i>"Dados constroem a fundação; a engenharia de software constrói o futuro."</i></p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=100&section=footer" width="100%"/>
-</div>
-```eof
-
-### Próximos passos para garantir que tudo funcione:
-
-1. **Imagem do Banner:** O código referencia o arquivo `image_3a7de4.jpg`. Certifique-se de fazer o upload desta imagem na raiz do repositório `gittarcisioball/gittarcisioball` para que ela seja carregada corretamente no topo do perfil.
-2. **Ativando a Cobrinha (Snake Contribution):**
-   * Vá no repositório do seu perfil (`gittarcisioball/gittarcisioball`).
-   * Crie uma pasta chamada `.github/workflows/`.
-   * Dentro dela, crie um arquivo chamado `snake.yml` e cole o código padrão da action `Platane/snk`. Isso fará com que o GitHub gere a animação diariamente e atualize a imagem que coloquei no seu README. (Se precisar do código exato para este arquivo, é só me pedir!).
-3. **Cores aplicadas:** Utilizei códigos HEX rigorosos (`#0D1117` para fundo dark do GitHub, `#00E5FF` para ciano neon e `#0075FF` para azul profundo), mantendo um contraste futurista limpo e que foge do genérico.
