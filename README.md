@@ -1,7 +1,6 @@
 <div align="center">
   <!-- Banner Personalizado -->
-  <img src="<img width="1568" height="2744" alt="FOTO LINKEDLIN" src="https://github.com/user-attachments/assets/1dd14c4a-f33e-4bea-8751-57711d24deb2" />
-" alt="Banner Tarcísio Vieira Alves" width="100%" style="border-radius: 10px;">
+  <img src="https://github.com/user-attachments/assets/1dd14c4a-f33e-4bea-8751-57711d24deb2" alt="Banner Tarcísio Vieira Alves" width="100%" style="border-radius: 10px;">
   
   <br><br>
 
