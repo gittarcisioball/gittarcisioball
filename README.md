@@ -90,10 +90,3 @@ Com experiência prática em inteligência comercial, automação de relatórios
 <br>
 
 <div align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gittarcisioball&bg_color=0D1117&color=00E5FF&line=0075FF&point=C9D1D9&area=true&hide_border=false&border_color=00E5FF&border_radius=10" alt="Activity Graph"/>
-</div>
-
-<br>
-
-<div align="center">
