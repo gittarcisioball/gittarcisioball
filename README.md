@@ -62,14 +62,3 @@ Com experiência prática em inteligência comercial, automação de relatórios
 </div>
 
 ---
-
-## 📊 Analytics & Atividade
-
-<div align="center">
-  <!-- GitHub Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=gittarcisioball&theme=gitdimmed&no-frame=true&no-bg=true&column=6&margin-w=15" alt="Trophies"/>
-  </a>
-</div>
-
-<br>
