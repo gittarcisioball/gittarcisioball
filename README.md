@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Banner Personalizado -->
-  <img src="image_3a7de4.jpg" alt="Banner Tarcísio Vieira Alves" width="100%" style="border-radius: 10px;">
+  <img src="![Uploading WhatsApp Image 2026-09-13 at 20.25.04.jpeg…]()" alt="Banner Tarcísio Vieira Alves" width="100%" style="border-radius: 10px;">
   
   <br><br>
 
