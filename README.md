@@ -46,15 +46,6 @@
 <!-- ===== END SNAKE ===== -->
 <br/>
 <br/>
-<!-- ===== DYNAMIC PROJECT CARD (SYSFIN) ===== -->
-<div align="center">
-  <h3 align="center">🚀 Projetos em Destaque</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=gittarcisioball&repo=SYSFIN&theme=radical&hide_border=true&bg_color=0A101F&title_color=22D3EE&text_color=94A3B8&icon_color=A78BFA" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gittarcisioball&repo=SYSFIN&theme=default&hide_border=true&bg_color=FFFFFF&title_color=0891B2&text_color=0F172A&icon_color=7C3AED" alt="Projeto SYSFIN" />
-  </picture>
-</div>
-
 <!-- ===== SOCIAL BADGES ===== -->
 <br/>
 <div align="center">
