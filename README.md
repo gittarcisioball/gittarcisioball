@@ -2,9 +2,9 @@
 <!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gittarcisioball/gittarcisioball/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gittarcisioball/gittarcisioball/main/light.svg">
-  <img alt="Tarcísio Vieira Alves" src="https://raw.githubusercontent.com/gittarcisioball/gittarcisioball/main/light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gittarcisioball/gittarcisioball/main/dark.svg?v=54fdf0a">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gittarcisioball/gittarcisioball/main/light.svg?v=54fdf0a">
+  <img alt="Tarcísio Vieira Alves" src="https://raw.githubusercontent.com/gittarcisioball/gittarcisioball/main/light.svg?v=54fdf0a">
 </picture>
 
 <!-- ===== GITHUB STATS ===== -->
